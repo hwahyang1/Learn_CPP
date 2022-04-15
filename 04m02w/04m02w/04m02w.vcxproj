@@ -29,6 +29,8 @@
     <ClCompile Include="0414\variable3.cpp" />
     <ClCompile Include="0414\variable2_print3.cpp" />
     <ClCompile Include="0414\variable1_function.cpp" />
+    <ClCompile Include="0415\dataType.cpp" />
+    <ClCompile Include="0415\test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

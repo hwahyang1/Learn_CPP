@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0414">
       <UniqueIdentifier>{c260ab4b-a30d-46c7-8855-6b5837610a14}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0415">
+      <UniqueIdentifier>{40c70a8b-07f0-415a-8a6b-c38eb3240f34}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0413\print1.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="0414\streamController.cpp">
       <Filter>Source Files\0414</Filter>
+    </ClCompile>
+    <ClCompile Include="0415\test.cpp">
+      <Filter>Source Files\0415</Filter>
+    </ClCompile>
+    <ClCompile Include="0415\dataType.cpp">
+      <Filter>Source Files\0415</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
