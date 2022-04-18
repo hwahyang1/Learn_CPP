@@ -1,0 +1,6 @@
+﻿  Operator.cpp
+D:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\04m03w\04m03w\0418\Operator.cpp(27,19): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\04m03w\04m03w\0418\Operator.cpp(27,14): warning C4309: 'initializing': truncation of constant value
+  DataTypeArea.cpp
+  Generating Code...
+  04m03w.vcxproj -> D:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\04m03w\x64\Debug\04m03w.exe
