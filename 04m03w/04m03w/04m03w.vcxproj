@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="0418\Operator1.cpp" />
+    <ClCompile Include="0418\Operator.cpp" />
     <ClCompile Include="0418\DataTypeArea.cpp" />
     <ClCompile Include="0418\String2.cpp" />
     <ClCompile Include="0418\String1.cpp" />
+    <ClCompile Include="0419\Operator1.cpp" />
+    <ClCompile Include="0419\Operator2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

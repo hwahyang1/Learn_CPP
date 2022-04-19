@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0418">
       <UniqueIdentifier>{7a46cece-0c10-4817-a64f-c76bfc4e1ddc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0419">
+      <UniqueIdentifier>{e9c42ad4-6c94-4c65-9a0c-8abbf5e8735d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0418\String1.cpp">
@@ -24,11 +27,17 @@
     <ClCompile Include="0418\String2.cpp">
       <Filter>Source Files\0418</Filter>
     </ClCompile>
-    <ClCompile Include="0418\Operator1.cpp">
+    <ClCompile Include="0418\Operator.cpp">
       <Filter>Source Files\0418</Filter>
     </ClCompile>
     <ClCompile Include="0418\DataTypeArea.cpp">
       <Filter>Source Files\0418</Filter>
+    </ClCompile>
+    <ClCompile Include="0419\Operator1.cpp">
+      <Filter>Source Files\0419</Filter>
+    </ClCompile>
+    <ClCompile Include="0419\Operator2.cpp">
+      <Filter>Source Files\0419</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
