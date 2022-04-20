@@ -1,15 +1,15 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 int main_0418_2() {
 	char st1[10];
-	printf("¹®ÀÚ¿­À» ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ë¬¸ìì—´ì„ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf_s("%s", &st1, sizeof(st1));
 	printf("%s\n", st1);
 
 	char name2[100];
-	std::cout << "ÀÌ¸§Àº? ";
+	std::cout << "ì´ë¦„ì€? ";
 	std::cin >> name2;
-	std::cout << "³» ÀÌ¸§Àº " << name2 << "ÀÔ´Ï´Ù." << std::endl;
+	std::cout << "ë‚´ ì´ë¦„ì€ " << name2 << "ì…ë‹ˆë‹¤." << std::endl;
 
 	return 0;
 }

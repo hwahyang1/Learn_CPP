@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main_0419_2() {
@@ -45,8 +45,8 @@ int main_0419_2() {
 	cout << endl;
 
 	int nAge = 25, nHeight = 160;
-	printf("°á°ú: %d\n", nAge >= 20 && nAge <= 30 && nHeight >= 150);
-	printf("°á°ú: %d\n", 0 < 1 || 0 < 1 && 2 < 3 || 4 < 5);
+	printf("ê²°ê³¼: %d\n", nAge >= 20 && nAge <= 30 && nHeight >= 150);
+	printf("ê²°ê³¼: %d\n", 0 < 1 || 0 < 1 && 2 < 3 || 4 < 5);
 
 	cout << endl;
 
@@ -81,4 +81,6 @@ int main_0419_2() {
 	cin >> nInput;
 	bResult = nInput < 10 || nInput > 99;
 	cout << bResult << endl;
+
+	return 0;
 }

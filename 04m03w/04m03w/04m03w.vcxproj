@@ -145,6 +145,11 @@
     <ClCompile Include="0418\String1.cpp" />
     <ClCompile Include="0419\Operator1.cpp" />
     <ClCompile Include="0419\Operator2.cpp" />
+    <ClCompile Include="0420\Condiiton.cpp" />
+    <ClCompile Include="0420\Operator1.cpp" />
+    <ClCompile Include="0420\Bit.cpp" />
+    <ClCompile Include="0420\Operator2.cpp" />
+    <ClCompile Include="0420\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

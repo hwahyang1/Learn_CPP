@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0419">
       <UniqueIdentifier>{e9c42ad4-6c94-4c65-9a0c-8abbf5e8735d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0420">
+      <UniqueIdentifier>{a2ba6ef2-5450-4382-b57b-7633b513ee91}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0418\String1.cpp">
@@ -38,6 +41,21 @@
     </ClCompile>
     <ClCompile Include="0419\Operator2.cpp">
       <Filter>Source Files\0419</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Operator1.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Test.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Bit.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Operator2.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Condiiton.cpp">
+      <Filter>Source Files\0420</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
