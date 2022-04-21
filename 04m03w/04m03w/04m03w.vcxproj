@@ -153,6 +153,16 @@
     <ClCompile Include="0420\Operator1.cpp" />
     <ClCompile Include="0420\Operator2.cpp" />
     <ClCompile Include="0420\Test.cpp" />
+    <ClCompile Include="0421\Condition1.cpp" />
+    <ClCompile Include="0421\Condition2.cpp" />
+    <ClCompile Include="0421\Loop1.cpp" />
+    <ClCompile Include="0421\Loop2.cpp" />
+    <ClCompile Include="0421\Loop3.cpp" />
+    <ClCompile Include="0421\Loop4.cpp" />
+    <ClCompile Include="0421\Loop5.cpp" />
+    <ClCompile Include="0421\Loop6.cpp" />
+    <ClCompile Include="0421\Loop7.cpp" />
+    <ClCompile Include="0421\Loop8.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
