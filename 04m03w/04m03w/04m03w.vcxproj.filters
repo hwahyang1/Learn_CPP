@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\0418">
+      <UniqueIdentifier>{beb80504-9058-4e9a-84c7-197bfc1b9063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\0419">
+      <UniqueIdentifier>{c555c8bb-3b57-43aa-9e9c-aae92150b57a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\0420">
+      <UniqueIdentifier>{f9696977-63a9-4b06-99bb-3d15fb6c57e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0418\DataTypeArea.cpp">
+      <Filter>Source Files\0418</Filter>
+    </ClCompile>
+    <ClCompile Include="0418\Operator.cpp">
+      <Filter>Source Files\0418</Filter>
+    </ClCompile>
+    <ClCompile Include="0418\String1.cpp">
+      <Filter>Source Files\0418</Filter>
+    </ClCompile>
+    <ClCompile Include="0418\String2.cpp">
+      <Filter>Source Files\0418</Filter>
+    </ClCompile>
+    <ClCompile Include="0419\Operator1.cpp">
+      <Filter>Source Files\0419</Filter>
+    </ClCompile>
+    <ClCompile Include="0419\Operator2.cpp">
+      <Filter>Source Files\0419</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Bit.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Operator1.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Operator2.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Test.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+    <ClCompile Include="0420\Condition.cpp">
+      <Filter>Source Files\0420</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
