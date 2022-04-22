@@ -25,6 +25,9 @@
     <Filter Include="Source Files\0421">
       <UniqueIdentifier>{3e931801-ea06-4346-a0c1-9eda2fe8036d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0422">
+      <UniqueIdentifier>{4b870c82-4ce0-492c-a6b4-2cadad264b02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -92,6 +95,18 @@
     </ClCompile>
     <ClCompile Include="0421\Loop8.cpp">
       <Filter>Source Files\0421</Filter>
+    </ClCompile>
+    <ClCompile Include="0422\Condition1.cpp">
+      <Filter>Source Files\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="0422\Condition2.cpp">
+      <Filter>Source Files\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="0422\Condition3.cpp">
+      <Filter>Source Files\0422</Filter>
+    </ClCompile>
+    <ClCompile Include="0422\Loop.cpp">
+      <Filter>Source Files\0422</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
