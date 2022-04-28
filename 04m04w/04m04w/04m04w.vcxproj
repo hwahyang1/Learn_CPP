@@ -147,6 +147,13 @@
     <ClCompile Include="0425\Figures.cpp" />
     <ClCompile Include="0425\Loop3.cpp" />
     <ClCompile Include="0425\Test.cpp" />
+    <ClCompile Include="0427\Array1.cpp" />
+    <ClCompile Include="0427\Array2.cpp" />
+    <ClCompile Include="0427\String.cpp" />
+    <ClCompile Include="0427\Test2.cpp" />
+    <ClCompile Include="0427\Test1.cpp" />
+    <ClCompile Include="0427\Test3.cpp" />
+    <ClCompile Include="0427\Test4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

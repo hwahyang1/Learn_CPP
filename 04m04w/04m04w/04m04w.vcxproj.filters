@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0425">
       <UniqueIdentifier>{71040d79-8711-49be-859c-68c78a1a2c99}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0427">
+      <UniqueIdentifier>{69cf43e6-dab2-4b6f-856e-fa886c964735}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -35,6 +38,27 @@
     </ClCompile>
     <ClCompile Include="0425\Loop3.cpp">
       <Filter>Source Files\0425</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\Test1.cpp">
+      <Filter>Source Files\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\Test2.cpp">
+      <Filter>Source Files\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\Array1.cpp">
+      <Filter>Source Files\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\Array2.cpp">
+      <Filter>Source Files\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\String.cpp">
+      <Filter>Source Files\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\Test3.cpp">
+      <Filter>Source Files\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="0427\Test4.cpp">
+      <Filter>Source Files\0427</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
