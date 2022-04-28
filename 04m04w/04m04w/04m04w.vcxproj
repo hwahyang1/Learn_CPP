@@ -154,6 +154,10 @@
     <ClCompile Include="0427\Test1.cpp" />
     <ClCompile Include="0427\Test3.cpp" />
     <ClCompile Include="0427\Test4.cpp" />
+    <ClCompile Include="0428\Pointer1.cpp" />
+    <ClCompile Include="0428\Array.cpp" />
+    <ClCompile Include="0428\Pointer2.cpp" />
+    <ClCompile Include="0428\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
