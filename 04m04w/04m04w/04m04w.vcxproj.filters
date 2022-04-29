@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0428">
       <UniqueIdentifier>{09a89e4d-803a-4e12-8d29-cee13e548e05}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0429">
+      <UniqueIdentifier>{07d2511f-fe42-40cb-bb7c-baf926c8fc2b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -74,6 +77,21 @@
     </ClCompile>
     <ClCompile Include="0428\Test.cpp">
       <Filter>Source Files\0428</Filter>
+    </ClCompile>
+    <ClCompile Include="0429\Array.cpp">
+      <Filter>Source Files\0429</Filter>
+    </ClCompile>
+    <ClCompile Include="0429\String.cpp">
+      <Filter>Source Files\0429</Filter>
+    </ClCompile>
+    <ClCompile Include="0429\Pointer.cpp">
+      <Filter>Source Files\0429</Filter>
+    </ClCompile>
+    <ClCompile Include="0429\Test.cpp">
+      <Filter>Source Files\0429</Filter>
+    </ClCompile>
+    <ClCompile Include="0429\Function.cpp">
+      <Filter>Source Files\0429</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

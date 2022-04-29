@@ -158,6 +158,11 @@
     <ClCompile Include="0428\Array.cpp" />
     <ClCompile Include="0428\Pointer2.cpp" />
     <ClCompile Include="0428\Test.cpp" />
+    <ClCompile Include="0429\Array.cpp" />
+    <ClCompile Include="0429\Pointer.cpp" />
+    <ClCompile Include="0429\Function.cpp" />
+    <ClCompile Include="0429\String.cpp" />
+    <ClCompile Include="0429\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
