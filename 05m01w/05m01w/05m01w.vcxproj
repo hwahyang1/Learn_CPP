@@ -139,11 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include=".gitignore" />
+    <ClCompile Include="0502\Function1_0502.cpp" />
+    <ClCompile Include="0502\Function2_0502.cpp" />
+    <ClCompile Include="0503\Array_Pointer.cpp" />
+    <ClCompile Include="0503\Function1.cpp" />
+    <ClCompile Include="0503\Recursive_Function.cpp" />
+    <ClCompile Include="0503\Test.cpp" />
+    <ClCompile Include="0503\Util.h" />
+    <ClCompile Include="0503\Variable_1.cpp" />
+    <ClCompile Include="0503\Variable_1_1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0502\Function1.cpp" />
-    <ClCompile Include="0502\Function2.cpp" />
+    <None Include=".editorconfig" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -16,16 +16,43 @@
     <Filter Include="Source Files\0502">
       <UniqueIdentifier>{7185323e-1403-487c-ac58-afec3772c06f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0503">
+      <UniqueIdentifier>{5a9f3cf1-5b0b-4166-8baf-d81860330ffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\0503">
+      <UniqueIdentifier>{6c9f96d7-df68-4189-a460-d81129e051f0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include=".gitignore" />
+    <ClCompile Include="0502\Function1_0502.cpp">
+      <Filter>Source Files\0502</Filter>
+    </ClCompile>
+    <ClCompile Include="0502\Function2_0502.cpp">
+      <Filter>Source Files\0502</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Variable_1.cpp">
+      <Filter>Source Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Variable_1_1.cpp">
+      <Filter>Source Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Util.h">
+      <Filter>Header Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Recursive_Function.cpp">
+      <Filter>Source Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Array_Pointer.cpp">
+      <Filter>Source Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Function1.cpp">
+      <Filter>Source Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="0503\Test.cpp">
+      <Filter>Source Files\0503</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0502\Function1.cpp">
-      <Filter>Source Files\0502</Filter>
-    </ClCompile>
-    <ClCompile Include="0502\Function2.cpp">
-      <Filter>Source Files\0502</Filter>
-    </ClCompile>
+    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>
