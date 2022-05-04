@@ -19,4 +19,6 @@ int main_0503_5() {
 	a = -1;
 	Absolute_0503_5(a); // 참조변수 사용
 	cout << a << endl;
+
+	return 0;
 }

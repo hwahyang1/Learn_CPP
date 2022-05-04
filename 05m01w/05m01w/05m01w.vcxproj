@@ -148,6 +148,8 @@
     <ClCompile Include="0503\Util.h" />
     <ClCompile Include="0503\Variable_1.cpp" />
     <ClCompile Include="0503\Variable_1_1.cpp" />
+    <ClCompile Include="MultiDimensionArray_Pointer.cpp" />
+    <ClCompile Include="Pointer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />

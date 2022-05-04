@@ -22,6 +22,9 @@
     <Filter Include="Header Files\0503">
       <UniqueIdentifier>{6c9f96d7-df68-4189-a460-d81129e051f0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0504">
+      <UniqueIdentifier>{e5036497-40c9-447b-885c-62be2b3299d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0502\Function1_0502.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="0503\Test.cpp">
       <Filter>Source Files\0503</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer.cpp">
+      <Filter>Source Files\0504</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiDimensionArray_Pointer.cpp">
+      <Filter>Source Files\0504</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
