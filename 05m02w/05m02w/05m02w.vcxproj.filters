@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0509">
       <UniqueIdentifier>{4f455d13-4fa7-44ae-bf7c-7f4e779f7055}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0510">
+      <UniqueIdentifier>{57f5bab2-7ec9-4a6b-9113-2b3adf4843ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -32,6 +35,27 @@
     </ClCompile>
     <ClCompile Include="0509\Test.cpp">
       <Filter>Source Files\0509</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\Test.cpp">
+      <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\Array_Pointer.cpp">
+      <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\DoublePointer.cpp">
+      <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\Arguments.cpp">
+      <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\VoidPointer.cpp">
+      <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\FunctionPointer.cpp">
+      <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0510\MemoryFunction.cpp">
+      <Filter>Source Files\0510</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
