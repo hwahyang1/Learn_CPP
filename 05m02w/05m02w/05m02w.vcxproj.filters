@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0510">
       <UniqueIdentifier>{57f5bab2-7ec9-4a6b-9113-2b3adf4843ab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0511">
+      <UniqueIdentifier>{83298547-ddd2-44cb-b951-0f9570703164}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -56,6 +59,18 @@
     </ClCompile>
     <ClCompile Include="0510\MemoryFunction.cpp">
       <Filter>Source Files\0510</Filter>
+    </ClCompile>
+    <ClCompile Include="0511\PreProcessor.cpp">
+      <Filter>Source Files\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="0511\Structure1.cpp">
+      <Filter>Source Files\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="0511\Structure2.cpp">
+      <Filter>Source Files\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="0511\Union.cpp">
+      <Filter>Source Files\0511</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

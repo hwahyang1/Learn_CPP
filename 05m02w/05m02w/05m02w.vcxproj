@@ -153,6 +153,10 @@
     <ClCompile Include="0510\VoidPointer.cpp" />
     <ClCompile Include="0510\FunctionPointer.cpp" />
     <ClCompile Include="0510\Test.cpp" />
+    <ClCompile Include="0511\PreProcessor.cpp" />
+    <ClCompile Include="0511\Structure2.cpp" />
+    <ClCompile Include="0511\Structure1.cpp" />
+    <ClCompile Include="0511\Union.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
