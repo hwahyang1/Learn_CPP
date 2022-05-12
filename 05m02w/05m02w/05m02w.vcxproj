@@ -157,6 +157,13 @@
     <ClCompile Include="0511\Structure2.cpp" />
     <ClCompile Include="0511\Structure1.cpp" />
     <ClCompile Include="0511\Union.cpp" />
+    <ClCompile Include="0512\Enum.cpp" />
+    <ClCompile Include="0512\Game.cpp" />
+    <ClCompile Include="0512\Macro.cpp" />
+    <ClCompile Include="0512\Namespace1.cpp" />
+    <ClCompile Include="0512\Namespace2.cpp" />
+    <ClCompile Include="0512\Using.cpp" />
+    <ClCompile Include="0512\Typedef.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
