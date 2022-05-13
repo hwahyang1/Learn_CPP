@@ -25,6 +25,9 @@
     <Filter Include="Source Files\0512">
       <UniqueIdentifier>{dbaef706-05fe-4f5a-b8f3-ec848eedb1e6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0513">
+      <UniqueIdentifier>{e3111c27-bf6d-4f50-aaca-d5c4508a46a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -39,10 +42,10 @@
     <ClCompile Include="0509\RecursiveFunction.cpp">
       <Filter>Source Files\0509</Filter>
     </ClCompile>
-    <ClCompile Include="0509\Test.cpp">
+    <ClCompile Include="0509\Test_0509.cpp">
       <Filter>Source Files\0509</Filter>
     </ClCompile>
-    <ClCompile Include="0510\Test.cpp">
+    <ClCompile Include="0510\Test_0510.cpp">
       <Filter>Source Files\0510</Filter>
     </ClCompile>
     <ClCompile Include="0510\Array_Pointer.cpp">
@@ -95,6 +98,30 @@
     </ClCompile>
     <ClCompile Include="0512\Macro.cpp">
       <Filter>Source Files\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\DynamicVariable1.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\DynamicVariable2.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\DynamicVariable3.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\Reference1.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\Reference2.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\Reference3.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\Test.cpp">
+      <Filter>Source Files\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0513\Init.cpp">
+      <Filter>Source Files\0513</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
