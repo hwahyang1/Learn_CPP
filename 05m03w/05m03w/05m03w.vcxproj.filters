@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0516">
       <UniqueIdentifier>{1c268a3e-47e5-4bb9-8c7d-bbf065ee6689}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0517">
+      <UniqueIdentifier>{542dd182-b4d6-46e8-a168-edb96d164d50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -35,6 +38,24 @@
     </ClCompile>
     <ClCompile Include="0516\Test2.cpp">
       <Filter>Source Files\0516</Filter>
+    </ClCompile>
+    <ClCompile Include="0517\Class.cpp">
+      <Filter>Source Files\0517</Filter>
+    </ClCompile>
+    <ClCompile Include="0517\Constructor.cpp">
+      <Filter>Source Files\0517</Filter>
+    </ClCompile>
+    <ClCompile Include="0517\Constructor2.cpp">
+      <Filter>Source Files\0517</Filter>
+    </ClCompile>
+    <ClCompile Include="0517\Constructor3.cpp">
+      <Filter>Source Files\0517</Filter>
+    </ClCompile>
+    <ClCompile Include="0517\Constructor4.cpp">
+      <Filter>Source Files\0517</Filter>
+    </ClCompile>
+    <ClCompile Include="0517\Constructor5.cpp">
+      <Filter>Source Files\0517</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

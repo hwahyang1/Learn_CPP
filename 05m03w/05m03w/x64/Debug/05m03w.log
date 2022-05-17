@@ -1,2 +1,3 @@
-﻿  Test2.cpp
-  05m03w.vcxproj -> D:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\05m03w\x64\Debug\05m03w.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of Class.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 0516\Class.cpp, 0517\Class.cpp.
+  Constructor5.cpp
+  05m03w.vcxproj -> F:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\05m03w\x64\Debug\05m03w.exe
