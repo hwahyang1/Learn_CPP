@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0518">
       <UniqueIdentifier>{18636929-39fa-4781-8a61-c8bb092ac393}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0519">
+      <UniqueIdentifier>{9585ee72-ffc0-479e-9f1b-ae6b91f0f9e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -60,17 +63,41 @@
     <ClCompile Include="0517\Constructor5.cpp">
       <Filter>Source Files\0517</Filter>
     </ClCompile>
-    <ClCompile Include="0518\Class.cpp">
+    <ClCompile Include="0518\Class_0518.cpp">
       <Filter>Source Files\0518</Filter>
     </ClCompile>
-    <ClCompile Include="0518\Class2.cpp">
+    <ClCompile Include="0518\Class_0518_2.cpp">
       <Filter>Source Files\0518</Filter>
     </ClCompile>
-    <ClCompile Include="0518\Test.cpp">
+    <ClCompile Include="0518\Test_0518.cpp">
       <Filter>Source Files\0518</Filter>
     </ClCompile>
-    <ClCompile Include="0518\Class3.cpp">
+    <ClCompile Include="0518\Class_0518_3.cpp">
       <Filter>Source Files\0518</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Class.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Class2.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Class3.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Class4.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Sort.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Test.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Class5.cpp">
+      <Filter>Source Files\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519\Class6.cpp">
+      <Filter>Source Files\0519</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

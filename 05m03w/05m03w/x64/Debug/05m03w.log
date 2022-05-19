@@ -1,18 +1,2 @@
-﻿  Class_0516.cpp
-  Class_0516_2.cpp
-  Class_0516_3.cpp
-  Test_0516_2.cpp
-  Test_0516.cpp
-  Class_0517.cpp
-  Constructor.cpp
-  Constructor2.cpp
-  Constructor3.cpp
-  Constructor4.cpp
-D:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\05m03w\05m03w\0517\Constructor4.cpp(12,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Constructor5.cpp
-  Class.cpp
-  Class2.cpp
-  Class3.cpp
-  Test.cpp
-  Generating Code...
-  05m03w.vcxproj -> D:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\05m03w\x64\Debug\05m03w.exe
+﻿  Class6.cpp
+  05m03w.vcxproj -> F:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\05m03w\x64\Debug\05m03w.exe

@@ -141,10 +141,18 @@
     <ClCompile Include="0517\Constructor3.cpp" />
     <ClCompile Include="0517\Constructor4.cpp" />
     <ClCompile Include="0517\Constructor5.cpp" />
-    <ClCompile Include="0518\Class.cpp" />
-    <ClCompile Include="0518\Class2.cpp" />
-    <ClCompile Include="0518\Class3.cpp" />
-    <ClCompile Include="0518\Test.cpp" />
+    <ClCompile Include="0518\Class_0518.cpp" />
+    <ClCompile Include="0518\Class_0518_2.cpp" />
+    <ClCompile Include="0518\Class_0518_3.cpp" />
+    <ClCompile Include="0518\Test_0518.cpp" />
+    <ClCompile Include="0519\Class.cpp" />
+    <ClCompile Include="0519\Class2.cpp" />
+    <ClCompile Include="0519\Class3.cpp" />
+    <ClCompile Include="0519\Class4.cpp" />
+    <ClCompile Include="0519\Sort.cpp" />
+    <ClCompile Include="0519\Class5.cpp" />
+    <ClCompile Include="0519\Class6.cpp" />
+    <ClCompile Include="0519\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
