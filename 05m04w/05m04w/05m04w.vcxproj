@@ -130,6 +130,11 @@
     <ClCompile Include="0523\Friend.cpp" />
     <ClCompile Include="0523\Friend2.cpp" />
     <ClCompile Include="0523\NestedClass.cpp" />
+    <ClCompile Include="0524\DynamicAllocation.cpp" />
+    <ClCompile Include="0524\DynamicAllocation2.cpp" />
+    <ClCompile Include="0524\DynamicAllocation3.cpp" />
+    <ClCompile Include="0524\Test2.cpp" />
+    <ClCompile Include="0524\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

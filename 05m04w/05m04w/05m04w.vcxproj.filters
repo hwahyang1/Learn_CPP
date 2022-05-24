@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0523">
       <UniqueIdentifier>{03d10a67-0a90-48b8-a813-f8439e4ac207}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0524">
+      <UniqueIdentifier>{c4f347d1-6bc6-4300-bdcf-bca5ae25180e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0523\Friend.cpp">
@@ -26,6 +29,21 @@
     </ClCompile>
     <ClCompile Include="0523\NestedClass.cpp">
       <Filter>Source Files\0523</Filter>
+    </ClCompile>
+    <ClCompile Include="0524\DynamicAllocation.cpp">
+      <Filter>Source Files\0524</Filter>
+    </ClCompile>
+    <ClCompile Include="0524\Test.cpp">
+      <Filter>Source Files\0524</Filter>
+    </ClCompile>
+    <ClCompile Include="0524\DynamicAllocation2.cpp">
+      <Filter>Source Files\0524</Filter>
+    </ClCompile>
+    <ClCompile Include="0524\Test2.cpp">
+      <Filter>Source Files\0524</Filter>
+    </ClCompile>
+    <ClCompile Include="0524\DynamicAllocation3.cpp">
+      <Filter>Source Files\0524</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
