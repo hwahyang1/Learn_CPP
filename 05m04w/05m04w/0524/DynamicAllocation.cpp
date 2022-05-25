@@ -1,30 +1,30 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main_0524_1() {
 	char* pchar = new char;
 	*pchar = 'a';
 
-	cout << "¸Þ¸ð¸®ÁÖ¼Ò: " << (void*)pchar << "\t°ª: " << *pchar << endl;
-	cout << "heap Å©±â: " << sizeof(*pchar) << endl;
+	cout << "ë©”ëª¨ë¦¬ì£¼ì†Œ: " << (void*)pchar << "\tê°’: " << *pchar << endl;
+	cout << "heap í¬ê¸°: " << sizeof(*pchar) << endl;
 
 	delete pchar;
 
 	cout << endl;
 
-	int* p = new int(10); // »ý¼º°ú µ¿½Ã¿¡ ÃÊ±âÈ­ °¡´É
+	int* p = new int(10); // ìƒì„±ê³¼ ë™ì‹œì— ì´ˆê¸°í™” ê°€ëŠ¥
 	cout << "*p: " << *p << endl;
 	delete p;
 
 	cout << endl;
 
-	int* pary1 = new int[3]; // ¹è¿­µµ ÇÒ´ç °¡´É
+	int* pary1 = new int[3]; // ë°°ì—´ë„ í• ë‹¹ ê°€ëŠ¥
 	cout << "pary1[0]: " << pary1[0] << endl;
 	delete[] pary1;
 
-	int* pary2{ new int[3] {} }; // ÀÌ·¸°Ôµµ ÇÒ´ç °¡´É
+	int* pary2{ new int[3] {} }; // ì´ë ‡ê²Œë„ í• ë‹¹ ê°€ëŠ¥
 	delete pary2;
-	int* pary21{ new int[3] { 1, 2, 3 } }; // ÀÌ°Ç ÃÊ±âÈ­
+	int* pary21{ new int[3] { 1, 2, 3 } }; // ì´ê±´ ì´ˆê¸°í™”
 	delete pary21;
 
 	cout << endl;

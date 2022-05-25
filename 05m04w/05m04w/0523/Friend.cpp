@@ -1,7 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
-class Girl_0523_1; // ¾ÈÇØÁÖ¸é Boy Å¬·¡½º¿¡¼­ friend °É ¼ö°¡ ¾øÀ½
+class Girl_0523_1; // ì•ˆí•´ì£¼ë©´ Boy í´ë˜ìŠ¤ì—ì„œ friend ê±¸ ìˆ˜ê°€ ì—†ìŒ
 
 class Boy_0523_1 {
 private:
@@ -17,7 +17,7 @@ public:
 
 void Func() {
 	Boy_0523_1 boy(180);
-	boy.height = 170; // Á¢±Ù°¡´É
+	boy.height = 170; // ì ‘ê·¼ê°€ëŠ¥
 }
 
 class Girl_0523_1 {
@@ -29,11 +29,11 @@ public:
 	friend class Boy_0523_1;
 	void ShowFriendInfo(Boy_0523_1& frn);
 };
-void Boy_0523_1::ShowFriendInfo(Girl_0523_1& frn) { // °´Ã¼°¡ ¾È¸¸µé¾îÁø »óÅÂ¿¡¼­ È£ÃâÀÌ ¾ÈµÇ±â¿¡ »©¼­ ³»·Á¾ßÇÔ
-	cout << frn.phNum << endl; // Á¢±Ù°¡´É
+void Boy_0523_1::ShowFriendInfo(Girl_0523_1& frn) { // ê°ì²´ê°€ ì•ˆë§Œë“¤ì–´ì§„ ìƒíƒœì—ì„œ í˜¸ì¶œì´ ì•ˆë˜ê¸°ì— ë¹¼ì„œ ë‚´ë ¤ì•¼í•¨
+	cout << frn.phNum << endl; // ì ‘ê·¼ê°€ëŠ¥
 }
 void Girl_0523_1::ShowFriendInfo(Boy_0523_1& frn) {
-	cout << frn.height << endl; // Á¢±Ù°¡´É
+	cout << frn.height << endl; // ì ‘ê·¼ê°€ëŠ¥
 }
 
 int main_0523_1() {

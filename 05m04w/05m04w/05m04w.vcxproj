@@ -135,6 +135,13 @@
     <ClCompile Include="0524\DynamicAllocation3.cpp" />
     <ClCompile Include="0524\Test2.cpp" />
     <ClCompile Include="0524\Test.cpp" />
+    <ClCompile Include="0525\CopyConstructor.cpp" />
+    <ClCompile Include="0525\CopyConstructor2.cpp" />
+    <ClCompile Include="0525\OperatorOverload.cpp" />
+    <ClCompile Include="0525\CopyConstructor3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

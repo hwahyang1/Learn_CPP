@@ -1,9 +1,9 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
-/* ÁßÃ¸ Å¬·¡½º (Nested Class / Inner Class)*/
+/* ì¤‘ì²© í´ë˜ìŠ¤ (Nested Class / Inner Class)*/
 
-/* ±¸Á¶Ã¼¸¦ ÀÌ¿ëÇÑ ¿¹½Ã */
+/* êµ¬ì¡°ì²´ë¥¼ ì´ìš©í•œ ì˜ˆì‹œ */
 struct enclose_0523_3
 {
 	struct inner_0523_3 {
@@ -12,13 +12,13 @@ struct enclose_0523_3
 	};
 
 	void F() {
-		inner_0523_3 in; // º¸ÅëÀº ¹Ù±ù¿¡¼­ Á¢±ÙÇÏ´Â °Ô ¾Æ´Ï¶ó ÀÌ·¸°Ô ¾ÈÂÊ¿¡¼­ Á¢±ÙÇÔ
+		inner_0523_3 in; // ë³´í†µì€ ë°”ê¹¥ì—ì„œ ì ‘ê·¼í•˜ëŠ” ê²Œ ì•„ë‹ˆë¼ ì´ë ‡ê²Œ ì•ˆìª½ì—ì„œ ì ‘ê·¼í•¨
 	}
 };
-int enclose_0523_3::inner_0523_3::ivalue = 0; // Á¢±ÙÀº ÀÌ·¸°Ô
-void enclose_0523_3::inner_0523_3::func(int value) {}; // ÇÔ¼öµµ µ¿ÀÏ
+int enclose_0523_3::inner_0523_3::ivalue = 0; // ì ‘ê·¼ì€ ì´ë ‡ê²Œ
+void enclose_0523_3::inner_0523_3::func(int value) {}; // í•¨ìˆ˜ë„ ë™ì¼
 
-/* Å¬·¡½º¿¡¼­´Â ÀÌ·¸°Ô */
+/* í´ë˜ìŠ¤ì—ì„œëŠ” ì´ë ‡ê²Œ */
 class Outter_0523_3 {
 private:
 	class Nested_0523_3 {
@@ -27,21 +27,21 @@ private:
 	public:
 		Nested_0523_3(string nameValue) : name(nameValue) {};
 		void Display() const {
-			cout << "Outter Å¬·¡½º ³»ºÎ Å¬·¡½ºÀÇ " << name.c_str() << endl;
+			cout << "Outter í´ë˜ìŠ¤ ë‚´ë¶€ í´ë˜ìŠ¤ì˜ " << name.c_str() << endl;
 		}
 	};
 public:
-	static Nested_0523_3 func(string name) { // Á¤Àû ÇÔ¼ö·Î ³»ºÎ Å¬·¡½º¸¦ °´Ã¼·Î »ı¼ºÇÏ¿© ¹İÈ¯
+	static Nested_0523_3 func(string name) { // ì •ì  í•¨ìˆ˜ë¡œ ë‚´ë¶€ í´ë˜ìŠ¤ë¥¼ ê°ì²´ë¡œ ìƒì„±í•˜ì—¬ ë°˜í™˜
 		return Nested_0523_3{ name };
 	}
 };
 
 int main_0523_3() {
-	// ÁßÃ¸ Å¬·¡½º¸¦ ¾²´Â ÀÇ¹Ì°¡ ¾øÀ½. ÀÌ°Ç ¿¹Á¦¸¦ À§ÇÑ°Å°í..
-	Outter_0523_3::func("È£Ãâ ¹æ¹ı").Display();
+	// ì¤‘ì²© í´ë˜ìŠ¤ë¥¼ ì“°ëŠ” ì˜ë¯¸ê°€ ì—†ìŒ. ì´ê±´ ì˜ˆì œë¥¼ ìœ„í•œê±°ê³ ..
+	Outter_0523_3::func("í˜¸ì¶œ ë°©ë²•").Display();
 
-	// ÀÌ°Ô ÀÏ¹İÀû ¹æ¹ı
-	auto anotherClass = Outter_0523_3::func("¼±¾ğ ¹æ¹ı");
+	// ì´ê²Œ ì¼ë°˜ì  ë°©ë²•
+	auto anotherClass = Outter_0523_3::func("ì„ ì–¸ ë°©ë²•");
 	anotherClass.Display();
 	
 	return 0;

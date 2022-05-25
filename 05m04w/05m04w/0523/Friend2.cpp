@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 class MyClass_0523_2 {
@@ -19,7 +19,7 @@ public:
 		return temp; // num++
 	}
 
-	/* À§ ÇÔ¼ö¸¦ friend ÇÔ¼ö·Î ¿Å±ä ¹öÀü */
+	/* ìœ„ í•¨ìˆ˜ë¥¼ friend í•¨ìˆ˜ë¡œ ì˜®ê¸´ ë²„ì „ */
 	friend MyClass_0523_2& AddOnePrefix(MyClass_0523_2& obj);
 	friend MyClass_0523_2 AddOnePostfix(MyClass_0523_2& obj);
 };
@@ -38,14 +38,14 @@ int main_0523_2() {
 	MyClass_0523_2 x(10), y(10);
 	MyClass_0523_2 z;
 
-	cout << "---- ¼±ÇàÃ³¸® ----" << endl;
+	cout << "---- ì„ í–‰ì²˜ë¦¬ ----" << endl;
 	z = AddOnePrefix(x);
 	z.Show();
 	x.Show();
 
 	cout << endl;
 
-	cout << "---- ÈÄÇàÃ³¸® ----" << endl;
+	cout << "---- í›„í–‰ì²˜ë¦¬ ----" << endl;
 	z = AddOnePostfix(y);
 	z.Show();
 	y.Show();

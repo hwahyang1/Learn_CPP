@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0524">
       <UniqueIdentifier>{c4f347d1-6bc6-4300-bdcf-bca5ae25180e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0525">
+      <UniqueIdentifier>{e50044f0-ee0e-4b86-8d34-5179ac05c1a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0523\Friend.cpp">
@@ -45,5 +48,20 @@
     <ClCompile Include="0524\DynamicAllocation3.cpp">
       <Filter>Source Files\0524</Filter>
     </ClCompile>
+    <ClCompile Include="0525\CopyConstructor.cpp">
+      <Filter>Source Files\0525</Filter>
+    </ClCompile>
+    <ClCompile Include="0525\CopyConstructor2.cpp">
+      <Filter>Source Files\0525</Filter>
+    </ClCompile>
+    <ClCompile Include="0525\OperatorOverload.cpp">
+      <Filter>Source Files\0525</Filter>
+    </ClCompile>
+    <ClCompile Include="0525\CopyConstructor3.cpp">
+      <Filter>Source Files\0525</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>

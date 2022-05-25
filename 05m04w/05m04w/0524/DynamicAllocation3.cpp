@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 class CTest_0524_5 {
@@ -10,17 +10,17 @@ public:
 };
 
 int main_0524_5() {
-	/* Á¤ÀûÇÒ´ç */
+	/* ì •ì í• ë‹¹ */
 	CTest_0524_5 t1;
 	t1.setNum(11);
 	cout << t1.getNum() << endl;
 
-	//cout << t1; // ÀÎ½ºÅÏ½º ÀÚÃ¼¸¦ Ãâ·ÂÇÏ´Â °ÍÀº ¾ÈµÊ
+	//cout << t1; // ì¸ìŠ¤í„´ìŠ¤ ìì²´ë¥¼ ì¶œë ¥í•˜ëŠ” ê²ƒì€ ì•ˆë¨
 	cout << &t1 << endl;
 
 	cout << endl;
 
-	/* µ¿ÀûÇÒ´ç */
+	/* ë™ì í• ë‹¹ */
 	CTest_0524_5* t2;
 	t2 = new CTest_0524_5();
 	t2->setNum(22);
@@ -29,7 +29,7 @@ int main_0524_5() {
 	cout << t2 << endl;
 
 	delete t2;
-	t2 = nullptr; // ÀÌ°Å ½À°üÀûÀ¸·Î ÇØÁÖ´Â°Ô ½Ç¼ö ¾ÈÇÔ.
+	t2 = nullptr; // ì´ê±° ìŠµê´€ì ìœ¼ë¡œ í•´ì£¼ëŠ”ê²Œ ì‹¤ìˆ˜ ì•ˆí•¨.
 
 	return 0;
 }

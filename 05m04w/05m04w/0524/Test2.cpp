@@ -1,7 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
-/* ½½½½ ¸Ó¸® ÅÍÁö´Â Áß.. */
+/* ìŠ¬ìŠ¬ ë¨¸ë¦¬ í„°ì§€ëŠ” ì¤‘.. */
 
 #define SizeX 4
 #define SizeY 4
