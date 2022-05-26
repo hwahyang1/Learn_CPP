@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0525">
       <UniqueIdentifier>{e50044f0-ee0e-4b86-8d34-5179ac05c1a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0526">
+      <UniqueIdentifier>{3537e97a-6a15-499d-8b62-de178a5e1f26}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0523\Friend.cpp">
@@ -59,6 +62,18 @@
     </ClCompile>
     <ClCompile Include="0525\CopyConstructor3.cpp">
       <Filter>Source Files\0525</Filter>
+    </ClCompile>
+    <ClCompile Include="0526\RValue_LValue.cpp">
+      <Filter>Source Files\0526</Filter>
+    </ClCompile>
+    <ClCompile Include="0526\MoveConstructor.cpp">
+      <Filter>Source Files\0526</Filter>
+    </ClCompile>
+    <ClCompile Include="0526\MoveConstructor2.cpp">
+      <Filter>Source Files\0526</Filter>
+    </ClCompile>
+    <ClCompile Include="0526\Test.cpp">
+      <Filter>Source Files\0526</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

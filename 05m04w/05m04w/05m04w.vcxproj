@@ -139,6 +139,10 @@
     <ClCompile Include="0525\CopyConstructor2.cpp" />
     <ClCompile Include="0525\OperatorOverload.cpp" />
     <ClCompile Include="0525\CopyConstructor3.cpp" />
+    <ClCompile Include="0526\RValue_LValue.cpp" />
+    <ClCompile Include="0526\MoveConstructor.cpp" />
+    <ClCompile Include="0526\MoveConstructor2.cpp" />
+    <ClCompile Include="0526\Test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
