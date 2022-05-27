@@ -25,6 +25,9 @@
     <Filter Include="Source Files\0526">
       <UniqueIdentifier>{3537e97a-6a15-499d-8b62-de178a5e1f26}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0527">
+      <UniqueIdentifier>{4b7f5617-ff0e-4bec-85b4-2a0e53b2e982}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0523\Friend.cpp">
@@ -72,8 +75,20 @@
     <ClCompile Include="0526\MoveConstructor2.cpp">
       <Filter>Source Files\0526</Filter>
     </ClCompile>
-    <ClCompile Include="0526\Test.cpp">
+    <ClCompile Include="0526\Test_0526.cpp">
       <Filter>Source Files\0526</Filter>
+    </ClCompile>
+    <ClCompile Include="0527\Inherit.cpp">
+      <Filter>Source Files\0527</Filter>
+    </ClCompile>
+    <ClCompile Include="0527\Inherit2.cpp">
+      <Filter>Source Files\0527</Filter>
+    </ClCompile>
+    <ClCompile Include="0527\Inherit3.cpp">
+      <Filter>Source Files\0527</Filter>
+    </ClCompile>
+    <ClCompile Include="0527\Inherit4.cpp">
+      <Filter>Source Files\0527</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

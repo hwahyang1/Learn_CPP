@@ -142,7 +142,11 @@
     <ClCompile Include="0526\RValue_LValue.cpp" />
     <ClCompile Include="0526\MoveConstructor.cpp" />
     <ClCompile Include="0526\MoveConstructor2.cpp" />
-    <ClCompile Include="0526\Test.cpp" />
+    <ClCompile Include="0526\Test_0526.cpp" />
+    <ClCompile Include="0527\Inherit.cpp" />
+    <ClCompile Include="0527\Inherit2.cpp" />
+    <ClCompile Include="0527\Inherit3.cpp" />
+    <ClCompile Include="0527\Inherit4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
