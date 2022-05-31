@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0530">
       <UniqueIdentifier>{56a1ee01-f628-44c4-8f0c-43ed54726778}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0531">
+      <UniqueIdentifier>{c1025592-a793-474a-a6bd-69c541de641d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -29,6 +32,24 @@
     </ClCompile>
     <ClCompile Include="0530\AbstractClass.cpp">
       <Filter>Source Files\0530</Filter>
+    </ClCompile>
+    <ClCompile Include="0531\Class.cpp">
+      <Filter>Source Files\0531</Filter>
+    </ClCompile>
+    <ClCompile Include="0531\Inherit.cpp">
+      <Filter>Source Files\0531</Filter>
+    </ClCompile>
+    <ClCompile Include="0531\Class2.cpp">
+      <Filter>Source Files\0531</Filter>
+    </ClCompile>
+    <ClCompile Include="0531\Inherit2.cpp">
+      <Filter>Source Files\0531</Filter>
+    </ClCompile>
+    <ClCompile Include="0531\Class3.cpp">
+      <Filter>Source Files\0531</Filter>
+    </ClCompile>
+    <ClCompile Include="0531\Inherit3.cpp">
+      <Filter>Source Files\0531</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

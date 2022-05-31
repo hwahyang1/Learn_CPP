@@ -133,6 +133,12 @@
     <ClCompile Include="0530\AbstractClass.cpp" />
     <ClCompile Include="0530\VirtualFunction2.cpp" />
     <ClCompile Include="0530\VirtualFunction.cpp" />
+    <ClCompile Include="0531\Class.cpp" />
+    <ClCompile Include="0531\Inherit.cpp" />
+    <ClCompile Include="0531\Class2.cpp" />
+    <ClCompile Include="0531\Class3.cpp" />
+    <ClCompile Include="0531\Inherit2.cpp" />
+    <ClCompile Include="0531\Inherit3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
