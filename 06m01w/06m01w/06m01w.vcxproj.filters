@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0531">
       <UniqueIdentifier>{c1025592-a793-474a-a6bd-69c541de641d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0601">
+      <UniqueIdentifier>{31927520-e893-483f-b48c-d7b5f751d9be}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -33,23 +36,38 @@
     <ClCompile Include="0530\AbstractClass.cpp">
       <Filter>Source Files\0530</Filter>
     </ClCompile>
-    <ClCompile Include="0531\Class.cpp">
+    <ClCompile Include="0531\Class_0531.cpp">
       <Filter>Source Files\0531</Filter>
     </ClCompile>
     <ClCompile Include="0531\Inherit.cpp">
       <Filter>Source Files\0531</Filter>
     </ClCompile>
-    <ClCompile Include="0531\Class2.cpp">
+    <ClCompile Include="0531\Class_0531_2.cpp">
       <Filter>Source Files\0531</Filter>
     </ClCompile>
     <ClCompile Include="0531\Inherit2.cpp">
       <Filter>Source Files\0531</Filter>
     </ClCompile>
-    <ClCompile Include="0531\Class3.cpp">
+    <ClCompile Include="0531\Class_0531_3.cpp">
       <Filter>Source Files\0531</Filter>
     </ClCompile>
     <ClCompile Include="0531\Inherit3.cpp">
       <Filter>Source Files\0531</Filter>
+    </ClCompile>
+    <ClCompile Include="0601\Class.cpp">
+      <Filter>Source Files\0601</Filter>
+    </ClCompile>
+    <ClCompile Include="0601\Class2.cpp">
+      <Filter>Source Files\0601</Filter>
+    </ClCompile>
+    <ClCompile Include="0601\Interface.cpp">
+      <Filter>Source Files\0601</Filter>
+    </ClCompile>
+    <ClCompile Include="0601\ClassOperator.cpp">
+      <Filter>Source Files\0601</Filter>
+    </ClCompile>
+    <ClCompile Include="0601\ClassOperator2.cpp">
+      <Filter>Source Files\0601</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
