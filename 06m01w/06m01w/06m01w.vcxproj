@@ -144,6 +144,10 @@
     <ClCompile Include="0601\Interface.cpp" />
     <ClCompile Include="0601\ClassOperator.cpp" />
     <ClCompile Include="0601\ClassOperator2.cpp" />
+    <ClCompile Include="0602\ClassOperator.cpp" />
+    <ClCompile Include="0602\ClassOperator2.cpp" />
+    <ClCompile Include="0602\Functor.cpp" />
+    <ClCompile Include="0602\String.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

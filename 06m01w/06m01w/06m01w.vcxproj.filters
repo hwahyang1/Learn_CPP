@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0601">
       <UniqueIdentifier>{31927520-e893-483f-b48c-d7b5f751d9be}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0602">
+      <UniqueIdentifier>{b5e74c68-4446-4ebf-ab38-946085a6dadb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -68,6 +71,18 @@
     </ClCompile>
     <ClCompile Include="0601\ClassOperator2.cpp">
       <Filter>Source Files\0601</Filter>
+    </ClCompile>
+    <ClCompile Include="0602\ClassOperator.cpp">
+      <Filter>Source Files\0602</Filter>
+    </ClCompile>
+    <ClCompile Include="0602\ClassOperator2.cpp">
+      <Filter>Source Files\0602</Filter>
+    </ClCompile>
+    <ClCompile Include="0602\Functor.cpp">
+      <Filter>Source Files\0602</Filter>
+    </ClCompile>
+    <ClCompile Include="0602\String.cpp">
+      <Filter>Source Files\0602</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
