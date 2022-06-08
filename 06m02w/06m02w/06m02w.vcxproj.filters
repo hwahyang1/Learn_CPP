@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0607">
       <UniqueIdentifier>{286d8fc5-e78f-4856-959a-6034c401054b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0608">
+      <UniqueIdentifier>{19393665-2d6c-4f16-a9ad-6fd644df0744}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -24,17 +27,32 @@
     <ClCompile Include="0607\Class.cpp">
       <Filter>Source Files\0607</Filter>
     </ClCompile>
-    <ClCompile Include="0607\TemplateFunction.cpp">
+    <ClCompile Include="0607\TemplateFunction_0608_1.cpp">
       <Filter>Source Files\0607</Filter>
     </ClCompile>
-    <ClCompile Include="0607\TemplateFunction2.cpp">
+    <ClCompile Include="0607\TemplateFunction2_0608_2.cpp">
       <Filter>Source Files\0607</Filter>
     </ClCompile>
-    <ClCompile Include="0607\TemplateClass.cpp">
+    <ClCompile Include="0607\TemplateClass_0608_1.cpp">
       <Filter>Source Files\0607</Filter>
     </ClCompile>
-    <ClCompile Include="0607\TemplateClass2.cpp">
+    <ClCompile Include="0607\TemplateClass_0608_2.cpp">
       <Filter>Source Files\0607</Filter>
+    </ClCompile>
+    <ClCompile Include="0608\TemplateClass.cpp">
+      <Filter>Source Files\0608</Filter>
+    </ClCompile>
+    <ClCompile Include="0608\TemplateFunction.cpp">
+      <Filter>Source Files\0608</Filter>
+    </ClCompile>
+    <ClCompile Include="0608\TemplateClass2.cpp">
+      <Filter>Source Files\0608</Filter>
+    </ClCompile>
+    <ClCompile Include="0608\TemplateClass3.cpp">
+      <Filter>Source Files\0608</Filter>
+    </ClCompile>
+    <ClCompile Include="0608\TemplateClass4.cpp">
+      <Filter>Source Files\0608</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
