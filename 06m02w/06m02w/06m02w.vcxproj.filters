@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0608">
       <UniqueIdentifier>{19393665-2d6c-4f16-a9ad-6fd644df0744}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0609">
+      <UniqueIdentifier>{b0be9d2f-87b7-430f-8a9a-e8acb63916a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -53,6 +56,15 @@
     </ClCompile>
     <ClCompile Include="0608\TemplateClass4.cpp">
       <Filter>Source Files\0608</Filter>
+    </ClCompile>
+    <ClCompile Include="0609\Random.cpp">
+      <Filter>Source Files\0609</Filter>
+    </ClCompile>
+    <ClCompile Include="0609\Time.cpp">
+      <Filter>Source Files\0609</Filter>
+    </ClCompile>
+    <ClCompile Include="0609\File.cpp">
+      <Filter>Source Files\0609</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

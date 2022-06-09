@@ -140,6 +140,9 @@
     <ClCompile Include="0608\TemplateClass2.cpp" />
     <ClCompile Include="0608\TemplateClass.cpp" />
     <ClCompile Include="0608\TemplateFunction.cpp" />
+    <ClCompile Include="0609\Random.cpp" />
+    <ClCompile Include="0609\File.cpp" />
+    <ClCompile Include="0609\Time.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
