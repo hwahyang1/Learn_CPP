@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0613">
       <UniqueIdentifier>{0d6f9510-364e-4170-a9c1-41278087dd8b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0614">
+      <UniqueIdentifier>{ac3413aa-f795-48a6-bd9f-990e4e2bc729}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0613\Stack.cpp">
@@ -23,6 +26,12 @@
     </ClCompile>
     <ClCompile Include="0613\Queue.cpp">
       <Filter>Source Files\0613</Filter>
+    </ClCompile>
+    <ClCompile Include="0614\LinkedList.cpp">
+      <Filter>Source Files\0614</Filter>
+    </ClCompile>
+    <ClCompile Include="0614\BubbleSort.cpp">
+      <Filter>Source Files\0614</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

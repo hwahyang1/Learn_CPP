@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="0613\Queue.cpp" />
     <ClCompile Include="0613\Stack.cpp" />
+    <ClCompile Include="0614\LinkedList.cpp" />
+    <ClCompile Include="0614\BubbleSort.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
