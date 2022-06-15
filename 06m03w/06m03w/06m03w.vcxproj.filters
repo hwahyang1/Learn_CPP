@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0614">
       <UniqueIdentifier>{ac3413aa-f795-48a6-bd9f-990e4e2bc729}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0615">
+      <UniqueIdentifier>{165b6e2c-80e4-406c-82c9-b5e893b9d776}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0613\Stack.cpp">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="0614\BubbleSort.cpp">
       <Filter>Source Files\0614</Filter>
+    </ClCompile>
+    <ClCompile Include="0615\Tree.cpp">
+      <Filter>Source Files\0615</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
