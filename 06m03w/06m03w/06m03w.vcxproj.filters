@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0615">
       <UniqueIdentifier>{165b6e2c-80e4-406c-82c9-b5e893b9d776}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0616">
+      <UniqueIdentifier>{b084b9ff-549c-4903-9340-2a5947859fd1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0613\Stack.cpp">
@@ -38,6 +41,12 @@
     </ClCompile>
     <ClCompile Include="0615\Tree.cpp">
       <Filter>Source Files\0615</Filter>
+    </ClCompile>
+    <ClCompile Include="0616\AStar.cpp">
+      <Filter>Source Files\0616</Filter>
+    </ClCompile>
+    <ClCompile Include="0616\Array.cpp">
+      <Filter>Source Files\0616</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
