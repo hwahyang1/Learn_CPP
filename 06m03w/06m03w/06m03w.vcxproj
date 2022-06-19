@@ -26,6 +26,8 @@
     <ClCompile Include="0615\Tree.cpp" />
     <ClCompile Include="0616\AStar.cpp" />
     <ClCompile Include="0616\Array.cpp" />
+    <ClCompile Include="0617\Algorithm.cpp" />
+    <ClCompile Include="0617\Vector.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
