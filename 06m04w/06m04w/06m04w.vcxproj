@@ -133,6 +133,8 @@
     <ClCompile Include="0620\Set.cpp" />
     <ClCompile Include="0620\Algorithm.cpp" />
     <ClCompile Include="0620\Vector.cpp" />
+    <ClCompile Include="0621\Stack_Queue_Deque.cpp" />
+    <ClCompile Include="0621\Vector2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
