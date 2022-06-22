@@ -19,6 +19,9 @@
     <Filter Include="Source Files\0621">
       <UniqueIdentifier>{1ef6fb09-2db4-4e48-88bb-d108b28788e4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0622">
+      <UniqueIdentifier>{a9daaffb-8999-4782-87ca-842af0f65025}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="0621\Stack_Queue_Deque.cpp">
       <Filter>Source Files\0621</Filter>
+    </ClCompile>
+    <ClCompile Include="0622\Tuple.cpp">
+      <Filter>Source Files\0622</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
