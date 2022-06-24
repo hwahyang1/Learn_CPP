@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0622">
       <UniqueIdentifier>{a9daaffb-8999-4782-87ca-842af0f65025}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0624">
+      <UniqueIdentifier>{a70f4afa-ae8a-4cd9-8faa-85ee3b9eac4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -44,6 +47,18 @@
     </ClCompile>
     <ClCompile Include="0622\Tuple.cpp">
       <Filter>Source Files\0622</Filter>
+    </ClCompile>
+    <ClCompile Include="0624\Algorithm.cpp">
+      <Filter>Source Files\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="0624\Lambda.cpp">
+      <Filter>Source Files\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="0624\Functional.cpp">
+      <Filter>Source Files\0624</Filter>
+    </ClCompile>
+    <ClCompile Include="0624\Test.cpp">
+      <Filter>Source Files\0624</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

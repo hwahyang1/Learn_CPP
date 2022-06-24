@@ -137,6 +137,10 @@
     <ClCompile Include="0621\Stack_Queue_Deque.cpp" />
     <ClCompile Include="0621\Vector2.cpp" />
     <ClCompile Include="0622\Tuple.cpp" />
+    <ClCompile Include="0624\Algorithm.cpp" />
+    <ClCompile Include="0624\Lambda.cpp" />
+    <ClCompile Include="0624\Functional.cpp" />
+    <ClCompile Include="0624\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
