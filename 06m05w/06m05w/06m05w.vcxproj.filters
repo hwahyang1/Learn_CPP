@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0627">
       <UniqueIdentifier>{b1cd1160-456a-4ae6-b8d1-ec566864b44c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0629">
+      <UniqueIdentifier>{8002f331-6000-4909-a0b6-b316e08ffc9f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -26,6 +29,18 @@
     </ClCompile>
     <ClCompile Include="0627\Lambda2.cpp">
       <Filter>Source Files\0627</Filter>
+    </ClCompile>
+    <ClCompile Include="0629\Test.cpp">
+      <Filter>Source Files\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="0629\Test2.cpp">
+      <Filter>Source Files\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="0629\Test3.cpp">
+      <Filter>Source Files\0629</Filter>
+    </ClCompile>
+    <ClCompile Include="0629\Test4.cpp">
+      <Filter>Source Files\0629</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
