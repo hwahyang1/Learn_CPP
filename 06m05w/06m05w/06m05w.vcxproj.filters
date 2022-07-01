@@ -22,6 +22,9 @@
     <Filter Include="Source Files\0630">
       <UniqueIdentifier>{196bc94e-1cd4-4d47-9157-971d6c04dac9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0701">
+      <UniqueIdentifier>{b231c74d-a40c-4d80-a9e0-a96f9fdcbba8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="0630\DynamicArgs.cpp">
       <Filter>Source Files\0630</Filter>
+    </ClCompile>
+    <ClCompile Include="0701\Thread.cpp">
+      <Filter>Source Files\0701</Filter>
+    </ClCompile>
+    <ClCompile Include="0701\Thread2.cpp">
+      <Filter>Source Files\0701</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

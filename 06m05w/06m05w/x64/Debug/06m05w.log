@@ -1,0 +1,3 @@
+﻿  Thread2.cpp
+F:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\06m05w\06m05w\0701\Thread2.cpp(15,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'std::thread::id'
+  06m05w.vcxproj -> F:\Main\7_Academic\SBSAcademyGame Ilsan(2022~)\CPP\06m05w\x64\Debug\06m05w.exe
