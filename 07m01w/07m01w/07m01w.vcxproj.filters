@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0705">
       <UniqueIdentifier>{4081641f-6562-426c-ba81-f8ac32f7c618}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0706">
+      <UniqueIdentifier>{29a8f5cb-2c15-4b99-87a1-e404e520fcac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -23,6 +26,9 @@
   <ItemGroup>
     <ClCompile Include="0705\Regex.cpp">
       <Filter>Source Files\0705</Filter>
+    </ClCompile>
+    <ClCompile Include="0706\String.cpp">
+      <Filter>Source Files\0706</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
