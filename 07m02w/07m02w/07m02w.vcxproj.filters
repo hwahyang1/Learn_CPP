@@ -16,6 +16,9 @@
     <Filter Include="Source Files\0712">
       <UniqueIdentifier>{10f2b30b-fb8d-44f1-b198-e543c466b58d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\0713">
+      <UniqueIdentifier>{4b0345cc-dc20-4bb9-abfb-5f45d555fab3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
@@ -23,6 +26,12 @@
   <ItemGroup>
     <ClCompile Include="0712\DoubleScreen.cpp">
       <Filter>Source Files\0712</Filter>
+    </ClCompile>
+    <ClCompile Include="0713\TypeId.cpp">
+      <Filter>Source Files\0713</Filter>
+    </ClCompile>
+    <ClCompile Include="0713\Volatile.cpp">
+      <Filter>Source Files\0713</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

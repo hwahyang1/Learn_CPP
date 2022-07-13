@@ -132,6 +132,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0712\DoubleScreen.cpp" />
+    <ClCompile Include="0713\Volatile.cpp" />
+    <ClCompile Include="0713\TypeId.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
