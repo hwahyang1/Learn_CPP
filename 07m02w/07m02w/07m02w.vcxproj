@@ -134,6 +134,7 @@
     <ClCompile Include="0712\DoubleScreen.cpp" />
     <ClCompile Include="0713\Volatile.cpp" />
     <ClCompile Include="0713\TypeId.cpp" />
+    <ClCompile Include="0714\MoveConstructor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
